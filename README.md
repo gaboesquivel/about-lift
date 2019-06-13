@@ -13,8 +13,8 @@ Promoting freedom, consciousness and knowledge. Empowering the Pura Vida Communi
 ## Revenue Streams
 
 - Software products and service fees.
-- P2P Marketplace fees. ( scrow contracts )
-- Philantropic donations.
+- P2P Marketplace fees. ( scrow contracts ).
+- Events.
 
 ## Members
 
