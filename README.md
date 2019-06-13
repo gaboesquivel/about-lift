@@ -1,5 +1,7 @@
 *This is a work in progress, feel free to chip in. Everything here is meretocratic and for the common good.*
 
+Watch [The ERA of DACs](https://www.youtube.com/watch?v=ClJSLwoBtCc) Keynote video if you are not familiar with this new type of organization.
+
 # Pura Vida Decentralized Autonomous Community
 
 A DAC for people who share the Pura Vida values.
