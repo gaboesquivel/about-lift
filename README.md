@@ -10,15 +10,21 @@ A DAC for people who share the Pura Vida values.
 
 ## Transformational Purpose
 
-Promoting freedom, consciousness and knowledge. Empowering the Pura Vida Community through DAC technology.
+Promoting freedom, consciousness, sustainability and knowledge. Empowering the Pura Vida Community through DAC technology. 
 
 ## Revenue Streams
 
-- Software products and service fees.
+- Dapps, Software products and service fees.
 - P2P Marketplace fees. ( scrow contracts ).
 - Events.
+- Dapp Development and consultancy. 
 
 ## Members
 
 The Pura Vida DAC is an open community that embraces all members equally. 
+
+## The Pura Vida Wallet
+
+The worlds first EOS mobile wallet designed with DAC management in mind.
+
 
