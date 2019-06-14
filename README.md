@@ -2,7 +2,7 @@
 
 Watch [The ERA of DACs](https://www.youtube.com/watch?v=ClJSLwoBtCc) Keynote video if you are not familiar with this new type of organization.
 
-# Pura Vida Decentralized Autonomous Community
+# The Pura Vida Decentralized Autonomous Community
 
 A DAC for people who share the Pura Vida values.
 
