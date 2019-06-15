@@ -22,13 +22,12 @@ Empowering the Pura Vida Community through DAC technology.
 - Dapps, software products and service fees.
 - P2P marketplace fees. ( scrow contracts ).
 - Events.
-- Dapp development and consultancy. 
 - Donations/support for EOSIO open source software development. 
 
 ## Focus Areas
 
 - Infrastructure and education in Latam.
-- Dapp development.
+- Dapps.
 - Open source software.
 - Sustainability.
 
