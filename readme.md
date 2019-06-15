@@ -51,4 +51,7 @@ The worlds first EOS mobile wallet designed with DAC management in mind.
 
 Will vote for the most Pura Vida block producers.
 
+## No BP Candidacy
+
+The Pura Vida DAC focuses on Dapps, Open Source tools, education and conservation; Not the blockchain layer, not BP candidacy.
 
