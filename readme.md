@@ -25,6 +25,12 @@ Empowering the Pura Vida Community through DAC technology.
 - Dapp development and consultancy. 
 - Donations/support for EOSIO open source software development. 
 
+## Focus Areas
+
+- Infrastructure and education in Latam.
+- Dapp development.
+- Open source software.
+
 ## Members
 
 The Pura Vida DAC is an open community that embraces all members equally. 
