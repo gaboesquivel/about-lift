@@ -30,6 +30,7 @@ Empowering the Pura Vida Community through DAC technology.
 - Infrastructure and education in Latam.
 - Dapp development.
 - Open source software.
+- Sustainability.
 
 ## Members
 
