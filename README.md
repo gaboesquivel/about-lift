@@ -23,6 +23,7 @@ Empowering the Pura Vida Community through DAC technology.
 - P2P Marketplace fees. ( scrow contracts ).
 - Events.
 - Dapp Development and consultancy. 
+- Donations/support for EOSIO open source software development. 
 
 ## Members
 
