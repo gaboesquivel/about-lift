@@ -19,18 +19,30 @@ Empowering the Pura Vida Community through DAC technology.
 
 ## Revenue Streams
 
-- Dapps, Software products and service fees.
-- P2P Marketplace fees. ( scrow contracts ).
+- Dapps, software products and service fees.
+- P2P marketplace fees. ( scrow contracts ).
 - Events.
-- Dapp Development and consultancy. 
+- Dapp development and consultancy. 
 - Donations/support for EOSIO open source software development. 
 
 ## Members
 
 The Pura Vida DAC is an open community that embraces all members equally. 
 
+## Constitution
+
+https://github.com/puravidadac/puravidadac-constitution
+
+## Tools
+
+We are using eosDac tools to build the Pura Vida DAC.
+
 ## The Pura Vida Wallet
 
 The worlds first EOS mobile wallet designed with DAC management in mind.
+
+## The Pura Vida Proxy
+
+Will vote for the most Pura Vida block producers.
 
 
