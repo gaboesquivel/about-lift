@@ -63,4 +63,8 @@ The Pura Vida DAC focuses on Dapps, Open Source tools, education and conservatio
 		<img src="https://cdn-std.dprcdn.net/files/acc_635251/Io79a1" width="600">
 	</a>
 </p>
+<p align="center">
+  See more about DACs <a href="https://github.com/puravidadac/awesome-dacs">puravidadac/awesome-dacs</a>
+</p>
+
 
