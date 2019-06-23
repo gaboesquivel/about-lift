@@ -55,3 +55,12 @@ Will vote for the most Pura Vida block producers.
 
 The Pura Vida DAC focuses on Dapps, Open Source tools, education and conservation; Not the blockchain layer, no BP candidacy.
 
+## About DACs
+
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=Wf5gfjMfiHA">
+    <span>The Power and Potential of DAO/Cs by Brock Pierce</span><br/>
+		<img src="https://cdn-std.dprcdn.net/files/acc_635251/Io79a1" width="600">
+	</a>
+</p>
+
