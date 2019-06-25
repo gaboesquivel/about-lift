@@ -1,4 +1,4 @@
-*This is a work in progress, feel free to chip in. Everything here is meretocratic and for the common good.*
+*This is a work in progress, feel free to chip in. Everyone is welcome!*
 
 Watch [The ERA of DACs](https://www.youtube.com/watch?v=ClJSLwoBtCc) Keynote video if you are not familiar with this new type of organization.
 
