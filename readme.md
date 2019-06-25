@@ -14,7 +14,7 @@ A DAC for people who share the Pura Vida values.
 
 ## Transformational Purpose
 
-Promoting freedom, consciousness, sustainability and knowledge.     
+Promoting freedom, consciousness and sustainability.     
 Empowering the Pura Vida Community through DAC technology. 
 
 ## Revenue Streams
