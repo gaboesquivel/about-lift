@@ -45,7 +45,7 @@ We are using eosDac tools to build the Pura Vida DAC.
 
 ## The Pura Vida Wallet
 
-The worlds first EOS mobile wallet designed with DAC management in mind.
+An EOS mobile wallet designed with DAC management in mind.
 
 ## The Pura Vida Proxy
 
