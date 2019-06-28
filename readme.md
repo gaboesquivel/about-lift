@@ -61,7 +61,7 @@ The Pura Vida DAC focuses on Dapps, Open Source tools, education and conservatio
 
 ## Deployment Plan
 
-The phase we will be focused on building up the community, open source tools, education and awareness. We will create partnerships and educational resources in spanish. We will collective design and implement DAC Token, smart contracts and the systems required to run the DAC. We will receive sponsorships and donations, as well keep track of all of the members contributions so that they can be appropiately rewarded with Pura Vida DAC tokens when we launch on chain.
+The first phase we will be focused on building up the community, open source tools, education and awareness. We will create partnerships and educational resources in spanish. We will collective design and implement DAC Token, smart contracts and the systems required to run the DAC. We will receive sponsorships and donations, as well keep track of all of the members contributions so that they can be appropiately rewarded with Pura Vida DAC tokens when we launch on chain.
 
 On the second phase we should be able focus more on growth, product, services and other proposals. 
 
