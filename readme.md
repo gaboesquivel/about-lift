@@ -41,6 +41,7 @@ Individuals, companies and organizations from of all nations can be part of it.
 - [CSX Community](https://csx.io) Community Supported Exchange EOS Block Producer. 
 - [Costa Rica JS](https://meetup.com/costaricajs) JavaScript Community in Costa Rica.
 - [Bitcash](http://bitcash.org) Stablecoin System on EOS mainnet.
+- [EOS SF](https://www.eossf.net) EOS Block Producer in San Francisco.
 
 Get in touch to become a partner.
 
