@@ -8,7 +8,7 @@ A DAC for people who share the Pura Vida values.
 
 > If you have been to Costa Rica, a term you should be familiar with is “Pura Vida.” Simply translated, it means “simple life” or “pure life”, but in Costa Rica, it is more than just a saying, its a lifestyle. 
 
-## Transformational Purpose
+## Purpose
 
 The Pura Vida DAC aims to educate and build the platforms necessary to support liberty, property and sustainability in Latin America. Empowering the Pura Vida Community through DAC technology and creating better and more fair opportunities for all. 
 
