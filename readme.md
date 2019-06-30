@@ -10,7 +10,7 @@ A DAC for people who share the Pura Vida values.
 
 ## Purpose
 
-The Pura Vida DAC aims to educate and build the platforms necessary to support liberty, property and sustainability in Latin America. Empowering the Pura Vida Community through DAC technology and creating better and more fair opportunities for all. 
+The Pura Vida DAC aims to educate and build the platforms necessary to support liberty, property, inclusion and sustainability in Latin America. Empowering the Pura Vida Community through DAC technology and creating better and more fair opportunities for all. 
 
 ## Focus Areas
 
