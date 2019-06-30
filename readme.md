@@ -8,14 +8,16 @@ A DAC for people who share the Pura Vida values.
 
 > If you have been to Costa Rica, a term you should be familiar with is “Pura Vida.” Simply translated, it means “simple life” or “pure life”, but in Costa Rica, it is more than just a saying, its a lifestyle. 
 
-# Why ?
-
-:point_right: https://puravidadac.one
-
 ## Transformational Purpose
 
-Promoting freedom and sustainability.     
-Empowering the Pura Vida Community through DAC technology. 
+The Pura Vida DAC aims to educate and build the platforms necessary to support liberty, property and sustainability in Latin America. Empowering the Pura Vida Community through DAC technology and creating better and more fair opportunities for all. 
+
+## Focus Areas
+
+- Infrastructure and education in Latam.
+- Dapps.
+- Open source software.
+- Sustainability. 
 
 ## Revenue Streams
 
@@ -24,24 +26,14 @@ Empowering the Pura Vida Community through DAC technology.
 - Events.
 - Donations/support for open source software development. 
 
-## Focus Areas
-
-- Infrastructure and education in Latam.
-- Dapps.
-- Open source software.
-- Sustainability.
-
 ## Members
 
 The Pura Vida DAC is an open community that embraces all members equally. 
+Individuals, companies and organizations from of all nations can be part of it.
 
 ## Constitution
 
 https://github.com/puravidadac/puravidadac-constitution
-
-## Tools
-
-We are using eosDac tools to build the Pura Vida DAC.
 
 ## The Pura Vida Wallet
 
@@ -64,6 +56,11 @@ The Pura Vida DAC focuses on Dapps, Open Source tools, education and conservatio
 The first phase we will be focused on building up the community, open source tools, education and awareness. We will create partnerships and educational resources in spanish. We will collective design and implement DAC Token, smart contracts and the systems required to run the DAC. We will receive sponsorships and donations, as well keep track of all of the members contributions so that they can be appropiately rewarded with Pura Vida DAC tokens when we launch on chain.
 
 On the second phase we should be able focus more on growth, product, services and other proposals. 
+
+## Telegram Channels
+
+ - [Pura Vida Dev Channel](https://t.me/puravidadev)
+ - [Pura Vida DAC Channel](https://t.me/puravidadac)
 
 ## About DACs
 
