@@ -40,7 +40,7 @@ Individuals, companies and organizations from of all nations can be part of it.
 - [EOS Costa Rica](https://eoscostarica.io) EOS Block Producer and DApp development company. 
 - [CSX Community](https://csx.io) Community Supported Exchange EOS Block Producer. 
 - [Costa Rica JS](https://meetup.com/costaricajs) JavaScript Community in Costa Rica.
-- [Bitcash](Bitcash.org) USD Stable Coin DAC Treasury on the EOS mainnet.
+- [Bitcash](http://bitcash.org) USD Stable Coin DAC Treasury on the EOS mainnet.
 
 Get in touch to become a partner.
 
