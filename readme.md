@@ -64,17 +64,14 @@ Huitzilopochtli is the god of will and determination too.
 
 An EOS mobile wallet designed with DAC management in mind.
 
-## The Pura Vida Proxy
+## PURA VIDA DAC Token
 
-Will vote for the most Pura Vida block producers.
+The token model is work in progress. 
+
 
 ## The Pura Vida Treasury
 
 The Pura Vida Treasury will be managed by the elected custodians.
-
-## No BP Candidacy
-
-The Pura Vida DAC focuses on Dapps, Open Source tools, education and conservation; Not the blockchain layer, no BP candidacy.
 
 ## Deployment Plan
 
@@ -108,4 +105,15 @@ On the second phase we should be able focus more on growth, product, services an
   See more about DACs <a href="https://github.com/puravidadac/awesome-dacs">puravidadac/awesome-dacs</a>
 </p>
 
+## Why EOSIO?
+
+EOSIO is third generation blockchain software that allow us to build scalable and secure applications with a friendly UX. It's flexible permission system is what allows this type DAC to build on top of it. 
+
+## No BP Candidacy
+
+The Pura Vida DAC focuses on Dapps, Open Source tools, education and conservation; Not the blockchain layer, no BP candidacy.
+
+## The Pura Vida Proxy
+
+Will vote for the most Pura Vida block producers.
 
