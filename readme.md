@@ -52,11 +52,13 @@ https://github.com/puravidadac/puravidadac-constitution
 
 ## The Hummingbird
 
-We chose the this bird as our logo because of it's meaning:
+We chose the this bird as our logo because of its symbolism:
 
 The hummingbird symbolizes many different concepts, because of its speed, the hummingbird is known as a messenger, and guardian of time. ... The hummingbird passes the life drinking the nectar of the flowers, which means that we must savor every moment, and appreciate the things we love.
 
 The Aztecs or Mexica, recognized the hummingbirds as courageous and brave fighters. He was admired because, despite his size, he showed great strength and power when flying. Its beauty, color and precision. It should be noted that the Mexicas thought that this time he never died, and was the symbol of Huitzilopochtli *, the god of war.
+
+Huitzilopochtli is the god of will and determination too.
 
 ## The Pura Vida Wallet
 
