@@ -34,7 +34,7 @@ Individuals, companies and organizations from of all nations can be part of it.
 ## Partners
 
 - [BlockchianCR](https://blockchaincr.com) Blockchain Community in Costa Rica.
-- [Banana Code](https://www.facebook.com/bananacode.co) Software Development Company.
+- [BananaCode](https://www.facebook.com/bananacode.co) Software Development Company.
 - [BeSpiral](https://bespiral.com/) 
  With BeSpiral you can leverage Blockchain and DLT technology to create secure and transparent community currencies towards meeting your positive social and environmental goals.
 - [Cacao.io](http://cacao.io/) Platform to help farming communities self-organize and compete in the global market. 
