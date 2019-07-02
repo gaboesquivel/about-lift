@@ -64,7 +64,7 @@ Huitzilopochtli is the god of will and determination too.
 
 An EOS mobile wallet designed with DAC management in mind.
 
-## PURA VIDA DAC Token
+## Pura Vida DAC Token
 
 The token model is work in progress. 
 
