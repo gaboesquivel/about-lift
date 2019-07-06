@@ -106,5 +106,5 @@ On the second phase we should be able focus more on growth, product, services an
 
 ## Why EOSIO?
 
-EOSIO is third generation blockchain software that allow us to build scalable and secure applications with a friendly UX. It's flexible permission system is what allows this type DAC to built on top of it. 
+EOSIO is third generation blockchain software that allow us to build scalable and secure applications with a friendly UX. Its flexible permission system is what allows this type DAC to built on top of it. 
 
