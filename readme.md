@@ -24,6 +24,13 @@ The Pura Vida DAC represents stake on the Pura Vida DAC cooperative.
 
 The Pura Vida DAC aims to educate and build the platforms necessary to support liberty, property, inclusion and sustainability in Costa Rica.
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=CxC161GvMPc">
+    <span>What is the tragedy of the commons?</span><br/>
+		<img src="https://cdn-std.dprcdn.net/files/acc_635251/PFCudD" width="600">
+	</a>
+</p>
+
 ## Focus Areas
 
 - Decentralized Finance.
