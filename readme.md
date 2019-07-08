@@ -10,21 +10,32 @@ A DAC for people who share the Pura Vida values.
 
 ## Purpose
 
-The Pura Vida DAC aims to educate and build the platforms necessary to support liberty, property, inclusion and sustainability in Latin America. Empowering the Pura Vida Community through DAC technology and creating better and more fair opportunities for all. 
+The Pura Vida DAC builds open source software and operates services to protect the commons and keep them thriving for generations to come. 
+
+The Pura Vida DAC focus areas are decentralized finance, public governance, public finance and conservation.
+
+The Pura Vida DAC cooperative itself is entirely public, decision making and finance are transparent and public on smart contracts on public blockchains.  
+
+The Pura Vida Bank is a cooperative bank operated by Pura Vida DAC.
+
+Crypto Colon is stable coin token paired to the costarrican colon that allows operating entirely on the blockchain.
+
+The Pura Vida DAC represents stake on the Pura Vida DAC cooperative.
+
+The Pura Vida DAC aims to educate and build the platforms necessary to support liberty, property, inclusion and sustainability in Costa Rica.
 
 ## Focus Areas
 
-- Infrastructure and education in Latam.
-- Dapps.
-- Open source software.
+- Decentralized Finance.
+- Public Governance and Finance.
+- Open Source Software.
 - Sustainability. 
 
 ## Revenue Streams
 
 - Dapps, software products and service fees.
 - P2P marketplace fees. ( scrow contracts ).
-- Events.
-- Donations/support for open source software development. 
+- Events. 
 
 ## Members
 
