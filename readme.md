@@ -20,7 +20,7 @@ The Pura Vida Bank is a cooperative bank operated by Pura Vida DAC.
 
 Crypto Colon is stable coin token paired to the costarrican colon that allows operating entirely on the blockchain.
 
-The Pura Vida DAC represents stake on the Pura Vida DAC cooperative.
+The Pura Vida DAC token represents stake on the Pura Vida DAC cooperative.
 
 The Pura Vida DAC aims to educate and build the platforms necessary to support liberty, property, inclusion and sustainability in Costa Rica.
 
@@ -84,7 +84,9 @@ An EOS mobile wallet designed with DAC management in mind.
 
 ## Pura Vida DAC Token
 
-The token model is work in progress. 
+The Pura Vida DAC token represents stake on the Pura Vida DAC cooperative.
+
+The token model is work in progress..
 
 ## The Pura Vida Treasury
 
