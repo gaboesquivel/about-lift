@@ -49,8 +49,6 @@ An EOS mobile wallet designed with DAC management in mind.
 
 ## Pura Vida DAC Token
 
-The Pura Vida DAC token represents stake on the Pura Vida DAC cooperative.
-
 The token model is work in progress..
 
 ## The Pura Vida Treasury
