@@ -29,21 +29,6 @@ The Pura Vida DAC builds open source software and operates services to protect t
 The Pura Vida DAC is an open community that embraces all members equally. 
 Individuals, companies and organizations from of all nations can be part of it.
 
-## Partners
-
-- [BlockchianCR](https://blockchaincr.com) Blockchain Community in Costa Rica.
-- [BananaCode](https://www.facebook.com/bananacode.co) Software Development Company.
-- [BeSpiral](https://bespiral.com/) 
- With BeSpiral you can leverage Blockchain and DLT technology to create secure and transparent community currencies towards meeting your positive social and environmental goals.
-- [Cacao.io](http://cacao.io/) Platform to help farming communities self-organize and compete in the global market. 
-- [EOS Costa Rica](https://eoscostarica.io) EOS Block Producer and DApp development company. 
-- [CSX Community](https://csx.io) Community Supported Exchange EOS Block Producer. 
-- [Costa Rica JS](https://meetup.com/costaricajs) JavaScript Community in Costa Rica.
-- [Bitcash](http://bitcash.org) Stablecoin System on EOS mainnet.
-- [EOS SF](https://www.eossf.net) EOS Block Producer in San Francisco.
-
-Get in touch to become a partner.
-
 ## Constitution
 
 https://github.com/puravidadac/puravidadac-constitution
