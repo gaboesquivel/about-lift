@@ -1,6 +1,6 @@
-* Este es un trabajo en progreso, siéntase libre de participar. ¡Todos son bienvenidos! *
+*Este es un trabajo en progreso, siéntase libre de participar. ¡Todos son bienvenidos!*
 
-Vea el video [La ERA de los DAC] (https://www.youtube.com/watch?v=ClJSLwoBtCc) si no está familiarizado con este nuevo tipo de organización.
+Vea el video [La ERA de los DAC](https://www.youtube.com/watch?v=ClJSLwoBtCc) si no está familiarizado con este nuevo tipo de organización.
 
 # La Comunidad Autónoma Descentralizada Pura Vida.
 
@@ -30,22 +30,22 @@ Individuos, empresas y organizaciones de todas las naciones pueden ser parte de 
 
 ## Pura Vida DAC Token
 
-Nos asociamos con [BeSpiral] (https://bespiral.com) para co-diseñar mecanismos de gobierno y modelos de token.
+Nos asociamos con [BeSpiral](https://bespiral.com) para co-diseñar mecanismos de gobierno y modelos de token.
 
-## El Tesoro de Pura Vida
+## El Tesoro
 
 El Tesoro de Pura Vida será administrado por los custodios elegidos.
 
-## Plan de empleo
+## Plan de desarrollo
 
 La primera fase se centrará en la construcción de la comunidad, las herramientas de código abierto, la educación y la sensibilización. Crearemos asociaciones y recursos educativos. Diseñaremos e implementaremos en forma colectiva el token de DAC, los contratos inteligentes y los sistemas necesarios para ejecutar el DAC. Recibiremos patrocinios y también realizaremos un seguimiento de todas las contribuciones de los miembros para que puedan ser recompensados ​​apropiadamente con los tokens de Pura Vida DAC cuando se distribuyan en el blockchain.
 
 ## Socios
 
-- [BlockchainCR] (https://blockchaincr.com) Comunidad de Blockchain en Costa Rica.
-- [BananaCode] (https://www.facebook.com/bananacode.co) Compañía de desarrollo de software.
-- [BeSpiral] (https://bespiral.com/) Con BeSpiral puede aprovechar la tecnología Blockchain y DLT para crear monedas comunitarias seguras y transparentes para alcanzar sus objetivos sociales y ambientales positivos.
-- [Costa Rica JS] (https://meetup.com/costaricajs) Comunidad de JavaScript en Costa Rica.
+- [BlockchainCR](https://blockchaincr.com) Comunidad de Blockchain en Costa Rica.
+- [BananaCode](https://www.facebook.com/bananacode.co) Compañía de desarrollo de software.
+- [BeSpiral](https://bespiral.com/) Con BeSpiral puede aprovechar la tecnología Blockchain y DLT para crear monedas comunitarias seguras y transparentes para alcanzar sus objetivos sociales y ambientales positivos.
+- [Costa Rica JS](https://meetup.com/costaricajs) Comunidad de JavaScript en Costa Rica.
 
 ## El colibrí
 
@@ -57,13 +57,13 @@ Los aztecas o mexicas reconocieron a los colibríes como valientes y valientes l
 
 ## Constitución
 
-Trabajo en progreso.
+Trabajo en progreso.   
 https://github.com/puravidadac/puravidadac-constitution
 
-## Canales de telegramas
+## Canales de telegram
 
- - [Pura Vida Dev Channel] (https://t.me/puravidadev)
- - [Canal Pura Vida DAC] (https://t.me/puravidadac)
+- [Pura Vida Dev Channel](https://t.me/puravidadev)  
+- [Canal Pura Vida DAC](https://t.me/puravidadac)  
 
 ## ¿Qué es un DAC?
 
