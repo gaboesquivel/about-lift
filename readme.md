@@ -6,7 +6,7 @@ Watch [The ERA of DACs](https://www.youtube.com/watch?v=ClJSLwoBtCc) Keynote vid
 
 A DAC for people who share the Pura Vida values.
 
-> If you have been to Costa Rica, a term you should be familiar with is “Pura Vida.” Simply translated, it means “simple life” or “pure life”, but in Costa Rica, it is more than just a saying, its a lifestyle. 
+> If you have been to Costa Rica, a term you should be familiar with is “Pura Vida.” Simply translated, it means “simple life” or “pure life”, but in Costa Rica, it is more than just a saying, its a lifestyle. The "Pura Vida" symbolizes for Costa Ricans the simplicity of good living, the attachment to humility, abundance, exuberance, well-being, joy, satisfaction, conformity, happiness and optimism, associated with the art of appreciating beauty in the simple and natural, the art of good living.
 
 ## Purpose
 
