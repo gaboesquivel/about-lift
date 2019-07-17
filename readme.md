@@ -46,6 +46,7 @@ The first phase we will be focused on building up the community, open source too
 - [BananaCode](https://www.facebook.com/bananacode.co) Software Development Company.
 - [BeSpiral](https://bespiral.com/) With BeSpiral you can leverage Blockchain and DLT technology to create secure and transparent community currencies towards meeting your positive social and environmental goals.
 - [Costa Rica JS](https://meetup.com/costaricajs) JavaScript Community in Costa Rica.
+- [Cacao.io](http://cacao.io/) Platform to help farming communities self-organize and compete in the global market. 
 
 ## The Hummingbird
 

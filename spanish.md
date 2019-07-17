@@ -46,6 +46,7 @@ La primera fase se centrará en la construcción de la comunidad, las herramient
 - [BananaCode](https://www.facebook.com/bananacode.co) Compañía de desarrollo de software.
 - [BeSpiral](https://bespiral.com/) Con BeSpiral puede aprovechar la tecnología Blockchain y DLT para crear monedas comunitarias seguras y transparentes para alcanzar sus objetivos sociales y ambientales positivos.
 - [Costa Rica JS](https://meetup.com/costaricajs) Comunidad de JavaScript en Costa Rica.
+- [Cacao.io](http://cacao.io/) Plataforma para ayudar a las comunidades agrícolas a organizarse y competir en el mercado global.
 
 ## El colibrí
 
