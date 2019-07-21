@@ -6,7 +6,7 @@ Vea el video [La ERA de los DAC](https://www.youtube.com/watch?v=ClJSLwoBtCc) si
 
 Un DAC para las personas que comparten los valores de ser Pura Vida.
 
-> Si has estado en Costa Rica, un término con el que deberías estar familiarizado es “Pura Vida”. Simboliza para los costarricenses la simplicidad del buen vivir, el apego a la humildad, abundancia, exuberancia, bienestar, alegría, satisfacción, conformidad, felicidad y el optimismo, asociados al arte de apreciar la apostura en lo sencillo y natural, el arte del buen vivir. 
+> Si has estado en Costa Rica, un término con el que deberías estar familiarizado es “Pura Vida”. Simboliza para los costarricenses la simplicidad del buen vivir, bienestar, alegría, satisfacción, felicidad y el optimismo, asociados al arte de apreciar la apostura en lo sencillo y natural.
 
 ## Propósito
 
@@ -54,7 +54,7 @@ Elegimos este pájaro como nuestro logotipo debido a su simbolismo:
 
 El colibrí simboliza muchos conceptos diferentes, debido a su velocidad, el colibrí es conocido como un mensajero y guardián del tiempo. ... El colibrí pasa la vida bebiendo el néctar de las flores, lo que significa que debemos saborear cada momento y apreciar las cosas que amamos.
 
-Los aztecas o mexicas reconocieron a los colibríes como valientes y valientes luchadores. Fue admirado porque, a pesar de su tamaño, mostró gran fuerza y ​​poder al volar. Su belleza, color y precisión. Cabe señalar que los mexicas pensaron que esta vez nunca murió, y fue el símbolo de Huitzilopochtli *, el dios de la guerra, la voluntad y la determinación.
+Los aztecas o mexicas reconocieron a los colibríes como valientes y valientes luchadores. Fue admirado porque, a pesar de su tamaño, mostró gran fuerza y poder al volar. Su belleza, color y precisión. Cabe señalar que los mexicas pensaron que esta vez nunca murió, y fue el símbolo de Huitzilopochtli *, el dios de la guerra, la voluntad y la determinación.
 
 ## Constitución
 
