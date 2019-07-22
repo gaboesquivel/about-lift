@@ -40,7 +40,7 @@ El Tesoro de Pura Vida será administrado por los custodios elegidos.
 
 La primera fase se centrará en la construcción de la comunidad, las herramientas de código abierto, la educación y la sensibilización. Crearemos asociaciones y recursos educativos. Diseñaremos e implementaremos en forma colectiva el token de DAC, los contratos inteligentes y los sistemas necesarios para ejecutar el DAC. Recibiremos patrocinios y también realizaremos un seguimiento de todas las contribuciones de los miembros para que puedan ser recompensados ​​apropiadamente con los tokens de Pura Vida DAC cuando se distribuyan en el blockchain.
 
-## Socios
+## Socios Colaboradores
 
 - [BlockchainCR](https://blockchaincr.com) Comunidad de Blockchain en Costa Rica.
 - [BananaCode](https://www.facebook.com/bananacode.co) Compañía de desarrollo de software.
