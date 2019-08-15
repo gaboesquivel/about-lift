@@ -1,6 +1,6 @@
 *Este es un trabajo en progreso, siéntase libre de participar. ¡Todos son bienvenidos!*
 
-Vea el video [La ERA de los DAC](https://www.youtube.com/watch?v=ClJSLwoBtCc) si no está familiarizado con este nuevo tipo de organización.
+Remendamos ver [The Power and Potential of DAO/Cs](https://www.youtube.com/watch?v=Wf5gfjMfiHA) y [DAOs: The Way Towards Enlightened Global Governance](https://www.youtube.com/watch?v=G1K4M6iCSyE) como una introducción si no está familiarizado con este nuevo tipo de organización.
 
 # La Comunidad Autónoma Descentralizada Pura Vida.
 
@@ -10,18 +10,7 @@ Un DAC para las personas que comparten los valores de ser Pura Vida.
 
 ## Propósito
 
-El Pura Vida DAC construye software de código abierto y opera servicios para proteger los bienes comunes y mantenerlos prósperos para las generaciones venideras.
-
-## Resumen
-
-La comunidad de Pura Vida se enfoca en construir herramientas, protocolos, servicios y recursos educativos para facilitar la creación y el gobierno de comunidades descentralizadas con un enfoque en el impacto social y la conservación.
-
-## Áreas de enfoque
-
-- Herramientas DAC y Educación.
-- Gobernanza descentralizada.
-- Finanzas descentralizadas.
-- Sostenibilidad y conservación.
+El PAC Vida DAC se centra en la creación de software de código abierto y dApps que empoderan a las personas y ayudan a crear abundancia en la tierra.
 
 ## Miembros
 
@@ -38,7 +27,7 @@ El Tesoro de Pura Vida será administrado por los custodios elegidos.
 
 ## Plan de desarrollo
 
-La primera fase se centrará en la construcción de la comunidad, las herramientas de código abierto, la educación y la sensibilización. Crearemos asociaciones y recursos educativos. Diseñaremos e implementaremos en forma colectiva el token de DAC, los contratos inteligentes y los sistemas necesarios para ejecutar el DAC. Recibiremos patrocinios y también realizaremos un seguimiento de todas las contribuciones de los miembros para que puedan ser recompensados ​​apropiadamente con los tokens de Pura Vida DAC cuando se distribuyan en el blockchain.
+La primera fase se centrará en la construcción de la comunidad, las herramientas de código abierto, la educación y la sensibilización. Diseñaremos e implementaremos en forma colectiva el token de DAC, los contratos inteligentes y los sistemas necesarios para ejecutar el DAC. 
 
 ## Socios Colaboradores
 
@@ -54,12 +43,9 @@ Elegimos este pájaro como nuestro logotipo debido a su simbolismo:
 
 El colibrí simboliza muchos conceptos diferentes, debido a su velocidad, el colibrí es conocido como un mensajero y guardián del tiempo. ... El colibrí pasa la vida bebiendo el néctar de las flores, lo que significa que debemos saborear cada momento y apreciar las cosas que amamos.
 
-Los aztecas o mexicas reconocieron a los colibríes como valientes y valientes luchadores. Fue admirado porque, a pesar de su tamaño, mostró gran fuerza y poder al volar. Su belleza, color y precisión. Cabe señalar que los mexicas pensaron que esta vez nunca murió, y fue el símbolo de Huitzilopochtli *, el dios de la guerra, la voluntad y la determinación.
-
 ## Constitución
 
 Trabajo en progreso.   
-https://github.com/puravidadac/puravidadac-constitution
 
 ## Canales de telegram
 
