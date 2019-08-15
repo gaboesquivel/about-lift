@@ -1,4 +1,4 @@
-Watch [The ERA of DACs](https://www.youtube.com/watch?v=ClJSLwoBtCc) Keynote video if you are not familiar with this new type of organization.
+Watch [DAOs: The Way Towards Enlightened Global Governance](https://www.youtube.com/watch?v=G1K4M6iCSyE) Keynote video if you are not familiar with this new type of organization.
 
 # The Pura Vida Decentralized Autonomous Community
 
