@@ -8,7 +8,7 @@ A DAC for people who share the Pura Vida values.
 
 ## Purpose
 
-The Pura Vida DAC builds open source software.
+The Pura Vida DAC focuses on building open source software and dApps that empower people and help create abundance on earth.
 
 ## Members
 
