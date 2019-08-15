@@ -25,7 +25,7 @@ The Pura Vida Treasury will be managed by the elected custodians.
 
 ## Deployment Plan
 
-The first phase we will be focused on building up the community, open source tools, education and awareness. We will collective design and implement the DAC Token, smart contracts and the systems required to run the DAC. 
+The first phase we will be focused on building up the community, open source tools, education and awareness. We will collectively design and implement the DAC Token, smart contracts and the systems required to run the DAC. 
 
 ## Collaborative Partners
 
@@ -39,7 +39,7 @@ The first phase we will be focused on building up the community, open source too
 
 We chose the this bird as our logo because of its symbolism:
 
-The hummingbird symbolizes many different concepts, because of its speed, the hummingbird is known as a messenger, and guardian of time. ... The hummingbird passes the life drinking the nectar of the flowers, which means that we must savor every moment, and appreciate the things we love.
+The hummingbird symbolizes many different concepts, because of its speed, the hummingbird is known as a messenger, and guardian of time. The hummingbird passes the life drinking the nectar of the flowers, which means that we must savor every moment, and appreciate the things we love.
 
 ## Constitution
 
