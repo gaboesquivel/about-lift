@@ -1,5 +1,3 @@
-*This is a work in progress, feel free to chip in. Everyone is welcome!*
-
 Watch [The ERA of DACs](https://www.youtube.com/watch?v=ClJSLwoBtCc) Keynote video if you are not familiar with this new type of organization.
 
 # The Pura Vida Decentralized Autonomous Community
@@ -10,18 +8,7 @@ A DAC for people who share the Pura Vida values.
 
 ## Purpose
 
-The Pura Vida DAC builds open source software and operates services to protect the commons and keep them thriving for generations to come.
-
-## Summary
-
-The Pura Vida community focuses on building tools, protocols, services and educational resources to facilitate the creation and governance of decentralized communities with a focus on social impact and conservation.
-
-## Focus Areas
-
-- DAC tools and Education.
-- Decentralized Governance.
-- Decentralized Finance.
-- Sustainability and Conservation.
+The Pura Vida DAC builds open source software.
 
 ## Members
 
@@ -38,7 +25,7 @@ The Pura Vida Treasury will be managed by the elected custodians.
 
 ## Deployment Plan
 
-The first phase we will be focused on building up the community, open source tools, education and awareness. We will create partnerships and educational resources. We will collective design and implement the DAC Token, smart contracts and the systems required to run the DAC. We will receive sponsorships as well keep track of all of the members contributions so that they can be appropiately rewarded with Pura Vida DAC tokens when we launch on chain.
+The first phase we will be focused on building up the community, open source tools, education and awareness. We will collective design and implement the DAC Token, smart contracts and the systems required to run the DAC. 
 
 ## Collaborative Partners
 
@@ -54,12 +41,9 @@ We chose the this bird as our logo because of its symbolism:
 
 The hummingbird symbolizes many different concepts, because of its speed, the hummingbird is known as a messenger, and guardian of time. ... The hummingbird passes the life drinking the nectar of the flowers, which means that we must savor every moment, and appreciate the things we love.
 
-The Aztecs or Mexica, recognized the hummingbirds as courageous and brave fighters. He was admired because, despite his size, he showed great strength and power when flying. Its beauty, color and precision. It should be noted that the Mexicas thought that this time he never died, and was the symbol of Huitzilopochtli *, the god of war, will and determination.
-
 ## Constitution
 
-Work in progress.   
-https://github.com/puravidadac/puravidadac-constitution
+Coming soon.
 
 ## Telegram Channels
 
