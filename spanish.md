@@ -8,7 +8,7 @@ Un DAC para las personas que comparten los valores de ser Pura Vida.
 
 ## Propósito
 
-El PAC Vida DAC se centra en la creación de software de código abierto y dApps que empoderan a las personas y ayudan a crear abundancia en la tierra.
+El Pura Vida DAC se centra en la creación de software de código abierto y dApps que empoderan a las personas y ayudan a crear abundancia en la tierra.
 
 ## Miembros
 
