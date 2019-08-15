@@ -1,5 +1,3 @@
-*Este es un trabajo en progreso, siéntase libre de participar. ¡Todos son bienvenidos!*
-
 Remendamos ver [The Power and Potential of DAO/Cs](https://www.youtube.com/watch?v=Wf5gfjMfiHA) y [DAOs: The Way Towards Enlightened Global Governance](https://www.youtube.com/watch?v=G1K4M6iCSyE) como una introducción si no está familiarizado con este nuevo tipo de organización.
 
 # La Comunidad Autónoma Descentralizada Pura Vida.
