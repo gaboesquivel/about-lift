@@ -6,6 +6,8 @@ Un DAC para las personas que comparten los valores de ser Pura Vida.
 
 > Si has estado en Costa Rica, un término con el que deberías estar familiarizado es “Pura Vida”. Simboliza para los costarricenses la simplicidad del buen vivir, bienestar, alegría, satisfacción, felicidad y el optimismo, asociados al arte de apreciar la apostura en lo sencillo y natural.
 
+Pura Vida DAC es un colectivo de desarrollo de software que opera completamente con contratos inteligentes. Todo, desde la planificación del producto hasta el desarrollo y el marketing, se rastrea y asegura en la cadena de bloques, los contribuyentes son recompensados automáticamente al completar la tarea.
+
 ## Propósito
 
 El Pura Vida DAC se centra en la creación de software de código abierto y dApps que empoderan a las personas y ayudan a crear abundancia en la tierra.
@@ -17,11 +19,12 @@ Individuos, empresas y organizaciones de todas las naciones pueden ser parte de 
 
 ## Pura Vida DAC Token
 
-Nos asociamos con [BeSpiral](https://bespiral.com) para co-diseñar mecanismos de gobierno y modelos de token.
+La Tesorería de Pura Vida será administrada íntegramente por contratos inteligentes y asegurada a través de multisig.
 
 ## El Tesoro
 
-El Tesoro de Pura Vida será administrado por los custodios elegidos.
+El token PVD representa el poder de voto y permite el acceso a la participación en los beneficios.
+https://bloks.io/account/puravidatokn
 
 ## Plan de desarrollo
 
@@ -30,6 +33,7 @@ La primera fase se centrará en la construcción de la comunidad, las herramient
 ## Socios Colaboradores
 
 - [BlockchainCR](https://blockchaincr.com) Comunidad de Blockchain en Costa Rica.
+- [Blockmatic](https://blockmatic.io) Empresa Consultora en Desarollo en Blockchain.
 - [BananaCode](https://www.facebook.com/bananacode.co) Compañía de desarrollo de software.
 - [BeSpiral](https://bespiral.com/) Con BeSpiral puede aprovechar la tecnología Blockchain y DLT para crear monedas comunitarias seguras y transparentes para alcanzar sus objetivos sociales y ambientales positivos.
 - [Costa Rica JS](https://meetup.com/costaricajs) Comunidad de JavaScript en Costa Rica.
