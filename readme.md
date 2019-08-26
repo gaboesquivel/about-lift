@@ -6,6 +6,8 @@ A DAC for people who share the Pura Vida values.
 
 > If you have been to Costa Rica, a term you should be familiar with is “Pura Vida.” Simply translated, it means “simple life” or “pure life”, but in Costa Rica, it is more than just a saying, its a lifestyle. The "Pura Vida" symbolizes for Costa Ricans the simplicity of good living, well-being, joy, happiness and optimism, associated with the art of appreciating beauty in the simple and natural.
 
+The Pura Vida DAC is software development collective that operates entirely on smart contracts. Everything from product planning to development and marketing is tracked and secured on the blockchain, contributors get rewarded automatically upon task completion. 
+
 ## Purpose
 
 The Pura Vida DAC focuses on building open source software and dApps that empower people and help create abundance on earth.
@@ -17,11 +19,12 @@ Individuals, companies and organizations from of all nations can be part of it.
 
 ## Pura Vida DAC Token
 
-We partnership with [BeSpiral](https://bespiral.com) to co-design governance mechanisms and token models. 
+The PVD Token represents voting power and allows access to profit sharing. 
+https://bloks.io/account/puravidatokn
 
 ## The Pura Vida Treasury
 
-The Pura Vida Treasury will be managed by the elected custodians.
+The Pura Vida Treasury will be intirely manage by smart contracts and secured through multisig.
 
 ## Deployment Plan
 
@@ -31,6 +34,7 @@ The first phase we will be focused on building up the community, open source too
 
 - [BlockchainCR](https://blockchaincr.com) Blockchain Community in Costa Rica.
 - [BananaCode](https://www.facebook.com/bananacode.co) Software Development Company.
+- [Blockmatic](https://blockmatic.io) Blockchain Consultancy Firm.
 - [BeSpiral](https://bespiral.com/) With BeSpiral you can leverage Blockchain and DLT technology to create secure and transparent community currencies towards meeting your positive social and environmental goals.
 - [Costa Rica JS](https://meetup.com/costaricajs) JavaScript Community in Costa Rica.
 - [Cacao.io](http://cacao.io/) Platform to help farming communities self-organize and compete in the global market. 
