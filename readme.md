@@ -19,7 +19,7 @@ Individuals, companies and organizations from of all nations can be part of it.
 
 ## Pura Vida DAC Token
 
-The PVD Token represents voting power and allows access to profit sharing. 
+The PVD Token represents voting power and allows access to profit sharing.    
 https://bloks.io/account/puravidatokn
 
 ## The Pura Vida Treasury
