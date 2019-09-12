@@ -1,12 +1,12 @@
-Remendamos ver [The Power and Potential of DAO/Cs](https://www.youtube.com/watch?v=Wf5gfjMfiHA) y [DAOs: The Way Towards Enlightened Global Governance](https://www.youtube.com/watch?v=G1K4M6iCSyE) como una introducción si no está familiarizado con este nuevo tipo de organización.
-
 # La Comunidad Autónoma Descentralizada Pura Vida.
 
-Un DAC para las personas que comparten los valores de ser Pura Vida.
+Pura Vida DAC es un colectivo de desarrollo de software que opera completamente con contratos inteligentes. 
 
-> Si has estado en Costa Rica, un término con el que deberías estar familiarizado es “Pura Vida”. Simboliza para los costarricenses la simplicidad del buen vivir, bienestar, alegría, satisfacción, felicidad y el optimismo, asociados al arte de apreciar la apostura en lo sencillo y natural.
+La toma de decisiones y operaciones se rastrea y aseguran en blockchain de manera transparente.
 
-Pura Vida DAC es un colectivo de desarrollo de software que opera completamente con contratos inteligentes. Todo, desde la planificación del producto hasta el desarrollo y el marketing, se rastrea y asegura en la cadena de bloques, los contribuyentes son recompensados automáticamente al completar la tarea.
+Los contribuyentes son recompensados automáticamente al completar tareas y también pueden hacer propuestas solicitando los fondos requeridos para la misma.
+
+Remendamos ver [The Power and Potential of DAO/Cs](https://www.youtube.com/watch?v=Wf5gfjMfiHA) y [DAOs: The Way Towards Enlightened Global Governance](https://www.youtube.com/watch?v=G1K4M6iCSyE) como una introducción si no está familiarizado con este nuevo tipo de organización.
 
 ## Propósito
 
@@ -48,6 +48,10 @@ El colibrí simboliza muchos conceptos diferentes, debido a su velocidad, el col
 ## Constitución
 
 Trabajo en progreso.   
+
+## Filosofía
+
+> Si has estado en Costa Rica, un término con el que deberías estar familiarizado es “Pura Vida”. Simboliza para los costarricenses la simplicidad del buen vivir, bienestar, alegría, satisfacción, felicidad y el optimismo, asociados al arte de apreciar la apostura en lo sencillo y natural.
 
 ## Canales de telegram
 
