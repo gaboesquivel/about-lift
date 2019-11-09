@@ -1,30 +1,35 @@
-# La Comunidad Autónoma Descentralizada Pura Vida.
+<p align="center">
+	</a>
+	<a href="https://git.io/col">
+		<img src="https://img.shields.io/badge/%E2%9C%93-collaborative_etiquette-brightgreen.svg" alt="Collaborative Etiquette">
+	</a>
+	<img src="https://img.shields.io/dub/l/vibe-d.svg" alt="MIT" />
+	<a href="https://twitter.com/intent/follow?screen_name=liftdapp">
+	<img src="https://img.shields.io/twitter/follow/liftdapp.svg?style=social&logo=twitter" alt="Follow on Twitter" />
+	</a>
+	<a href="https://t.me/liftdapp">
+		<img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue?style=social&logo=telegram" alt="Chat on Telegram">
+	</a>
+</p>
 
-Pura Vida DAC es un colectivo de desarrollo de software que opera completamente con contratos inteligentes. 
+# LIFT: Comunidad para compartir de conocimiento.
 
-La toma de decisiones y operaciones se rastrea y aseguran en blockchain de manera transparente.
+LIFT es una comunidad para compartir conocimientos. El token impulsará un ecosistema con cursos, reuniones, artículos, mentores con un enfoque en latam, estamos comenzando con contenido en español. La plataforma no solo le enseña sino que le brinda oportunidades de trabajo a través del WPS (fondo de inversión DAC) y los directorios de Kanban. Puede haber un portal independiente, etc. El objetivo final es tener un portal donde las personas puedan aprender, ganar e invertir (estacar, comerciar), lo ideal sería que la plataforma lo recompense por aprender, para que tanto el maestro como el estudiante obtengan LIFT.
 
-Los contribuyentes son recompensados automáticamente al completar tareas y también pueden hacer propuestas solicitando los fondos requeridos para la misma.
+
+_THIS IS WORK IN PROGRESS_
+
+![](https://cdn-std.droplr.net/files/acc_635251/R8St9m)
+
+
+## LIFT DAC
 
 Remendamos ver [The Power and Potential of DAO/Cs](https://www.youtube.com/watch?v=Wf5gfjMfiHA) y [DAOs: The Way Towards Enlightened Global Governance](https://www.youtube.com/watch?v=G1K4M6iCSyE) como una introducción si no está familiarizado con este nuevo tipo de organización.
 
-## Propósito
-
-El Pura Vida DAC se centra en la creación de software de código abierto y dApps que empoderan a las personas y ayudan a crear abundancia en la tierra.
-
 ## Miembros
 
-El DAC de Pura Vida es una comunidad abierta que recibe a todos los miembros por igual.
+El DAC de LIFT es una comunidad abierta que recibe a todos los miembros por igual.
 Individuos, empresas y organizaciones de todas las naciones pueden ser parte de esto.
-
-## Pura Vida DAC Token
-
-La Tesorería de Pura Vida será administrada íntegramente por contratos inteligentes y asegurada a través de multisig.
-
-## El Tesoro
-
-El token PVD representa el poder de voto y permite el acceso a la participación en los beneficios.
-https://bloks.io/account/puravidatokn
 
 ## Plan de desarrollo
 
@@ -33,7 +38,7 @@ La primera fase se centrará en la construcción de la comunidad, las herramient
 ## Socios Colaboradores
 
 - [BlockchainCR](https://blockchaincr.com) Comunidad de Blockchain en Costa Rica.
-- [Blockmatic](https://blockmatic.io) Empresa Consultora en Desarollo en Blockchain.
+- [Blockmatic](https://blockmatic.io) Empresa consultora en desarrollo en blockchain.
 - [BananaCode](https://www.facebook.com/bananacode.co) Compañía de desarrollo de software.
 - [BeSpiral](https://bespiral.com/) Con BeSpiral puede aprovechar la tecnología Blockchain y DLT para crear monedas comunitarias seguras y transparentes para alcanzar sus objetivos sociales y ambientales positivos.
 - [Costa Rica JS](https://meetup.com/costaricajs) Comunidad de JavaScript en Costa Rica.
@@ -53,10 +58,9 @@ Trabajo en progreso.
 
 > Si has estado en Costa Rica, un término con el que deberías estar familiarizado es “Pura Vida”. Simboliza para los costarricenses la simplicidad del buen vivir, bienestar, alegría, satisfacción, felicidad y el optimismo, asociados al arte de apreciar la apostura en lo sencillo y natural.
 
-## Canales de telegram
+## Telegram
 
-- [Pura Vida Dev Channel](https://t.me/puravidadev)  
-- [Canal Pura Vida DAC](https://t.me/puravidadac)  
+- [LIFT Token Community](https://t.me/liftdapp)  
 
 ## ¿Qué es un DAC?
 
@@ -67,3 +71,47 @@ Ver más sobre los DAC <a href="https://github.com/puravidadac/awesome-dacs"> pu
 ## ¿Por qué EOSIO Blockchains?
 
 EOSIO es un software de blockchain de tercera generación que nos permite crear aplicaciones escalables y seguras con un UX amigable. Su sistema de permisos flexible es lo que permite que este tipo de DAC se construya sobre él.
+
+
+---
+
+## LIFT
+
+Lift yourself up by lifting others up.
+
+[t.me/liftdapp](t.me/liftdapp)  
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<!-- display the social media buttons in your README -->
+
+[![PuraVida DAC Twitter][1.1]][1]
+[![PuraVida DAC Facebook][2.1]][2]
+[![PuraVida DAC Github][3.1]][3]
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[3.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.twitter.com/liftdapp
+[2]: http://fb.me/liftdapp
+[3]: http://www.github.com/liftdapp
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+
