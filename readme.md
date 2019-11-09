@@ -4,38 +4,31 @@
 		<img src="https://img.shields.io/badge/%E2%9C%93-collaborative_etiquette-brightgreen.svg" alt="Collaborative Etiquette">
 	</a>
 	<img src="https://img.shields.io/dub/l/vibe-d.svg" alt="MIT" />
-	<a href="https://twitter.com/intent/follow?screen_name=puravidadac">
-		<img src="https://img.shields.io/twitter/follow/puravidadac.svg?style=social&logo=twitter" alt="Follow on Twitter" />
+	<a href="https://twitter.com/intent/follow?screen_name=liftdapp">
+	<img src="https://img.shields.io/twitter/follow/liftdapp.svg?style=social&logo=twitter" alt="Follow on Twitter" />
 	</a>
-	<a href="https://t.me/puravidadac">
+	<a href="https://t.me/liftdapp">
 		<img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue?style=social&logo=telegram" alt="Chat on Telegram">
 	</a>
 </p>
 
-# The Pura Vida Decentralized Autonomous Community
+# LIFT: A Community for Knowledge Sharing
+
+LIFT is a community for knowledge sharing. The token will power an ecosystem with courses, meetups, articles, mentors with a focus on latam, we are starting with spanish content.  The platform not only teaches you but gives you work opportunities through the WPS ( DAC investment fund ) and the Kanban boards. There might be a freelance portal, etc.. Ultimate goal is to have a portal where people can learn, earn and invest (staking, trading), ideally the platform would reward you for learning, so both teacher and student get lifted.
+
+_THIS IS WORK IN PROGRESS_
+
+![](https://cdn-std.droplr.net/files/acc_635251/R8St9m)
+
+
+## LIFT DAC
 
 We suggest watching [The Power and Potential of DAO/Cs](https://www.youtube.com/watch?v=Wf5gfjMfiHA) and [DAOs: The Way Towards Enlightened Global Governance](https://www.youtube.com/watch?v=G1K4M6iCSyE) as an introduction if you are not familiar with this new type of organization.
 
-
-The Pura Vida DAC is software development collective that operates entirely on smart contracts. Everything from product planning to development and marketing is tracked and secured on the blockchain, contributors get rewarded automatically upon task completion. 
-
-## Purpose
-
-The Pura Vida DAC focuses on building open source software and dApps that empower people and help create abundance on earth.
-
 ## Members
 
-The Pura Vida DAC is an open community that embraces all members equally.    
+The LIFT DAC is an open community that embraces all members equally.    
 Individuals, companies and organizations from of all nations can be part of it.
-
-## Pura Vida DAC Token
-
-The PVD Token represents voting power and allows access to profit sharing.    
-https://bloks.io/account/puravidatokn
-
-## The Pura Vida Treasury
-
-The Pura Vida Treasury will be intirely manage by smart contracts and secured through multisig.
 
 ## Deployment Plan
 
@@ -66,11 +59,9 @@ A DAC for people who share the Pura Vida values.
 
 > If you have been to Costa Rica, a term you should be familiar with is “Pura Vida.” Simply translated, it means “simple life” or “pure life”, but in Costa Rica, it is more than just a saying, its a lifestyle. The "Pura Vida" symbolizes for Costa Ricans the simplicity of good living, well-being, joy, happiness and optimism, associated with the art of appreciating beauty in the simple and natural.
 
+## Telegram 
 
-## Telegram Channels
-
- - [Pura Vida Dev Channel](https://t.me/puravidadev)
- - [Pura Vida DAC Channel](https://t.me/puravidadac)
+ - [Lift Token Community](https://t.me/liftdapp)
 
 ## What is a DAC?
 
@@ -82,18 +73,11 @@ See more about DACs <a href="https://github.com/puravidadac/awesome-dacs">puravi
 
 EOSIO is third generation blockchain software that allow us to build scalable and secure applications with a friendly UX. Its flexible permission system is what allows this type DAC to built on top of it. 
 
-## Become a Supporter
-
-You can become by sending us crypto to the following addresses:
- 
-- EOS: puravidadac1
-- TELOS: puravidadac1
-
 ---
 
-## Pura Vida DAC
+## LIFT
 
-The Pura Vida DAC is software development collective that operates entirely on smart contracts.
+Lift yourself up by lifting others up.
 
 [puravidadac.io](https://puravidadac.io)  
 
@@ -124,9 +108,9 @@ The Pura Vida DAC is software development collective that operates entirely on s
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/puravidadac
-[2]: http://fb.me/puravidadac
-[3]: http://www.github.com/puravidadac
+[1]: http://www.twitter.com/liftdapp
+[2]: http://fb.me/liftdapp
+[3]: http://www.github.com/liftdapp
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
