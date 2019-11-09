@@ -12,7 +12,7 @@
 	</a>
 </p>
 
-# LIFT: Comunidad para compartir de conocimiento.
+# LIFT: Comunidad para compartir conocimiento.
 
 LIFT es una comunidad para compartir conocimientos. El token impulsará un ecosistema con cursos, reuniones, artículos, mentores con un enfoque en latam, estamos comenzando con contenido en español. La plataforma no solo le enseña sino que le brinda oportunidades de trabajo a través del WPS (fondo de inversión DAC) y los directorios de Kanban. Puede haber un portal independiente, etc. El objetivo final es tener un portal donde las personas puedan aprender, ganar e invertir (estacar, comerciar), lo ideal sería que la plataforma lo recompense por aprender, para que tanto el maestro como el estudiante obtengan LIFT.
 
