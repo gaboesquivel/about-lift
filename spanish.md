@@ -66,7 +66,7 @@ Trabajo en progreso.
 
 Una Comunidad Autónoma Descentralizada (DAC), a veces denominada Organización Autónoma Descentralizada (DAO, por sus siglas en inglés), es una comunidad u organización que opera según un conjunto de reglas acordadas por su comunidad; Estas reglas están codificadas en contratos inteligentes y funcionan de forma automática o autónoma. Cada DAC determina su propio conjunto de reglas a seguir. Pura Vida DAC utiliza contratos inteligentes en las cadenas de bloques basadas en EOSIO.
 
-Ver más sobre los DAC <a href="https://github.com/puravidadac/awesome-dacs"> puravidadac / awesome-dacs </a>
+Ver más sobre los DAC <a href="https://github.com/liftdapp/awesome-dacs">liftdapp/awesome-dacs</a>
 
 ## ¿Por qué EOSIO Blockchains?
 
