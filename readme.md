@@ -67,7 +67,7 @@ A DAC for people who share the Pura Vida values.
 
 A Decentralized Autonomous Community (DAC), sometimes referred to as a Decentralized Autonomous Organization (DAO), is a community or organization that operates based on a set of rules agreed on by its community of token holders; these rules are coded into smart contracts and operate automatically, or autonomously. Each DAC determines its own set of rules to follow. Pura Vida DAc utilizes smart contracts in EOSIO blockchains.
 
-See more about DACs <a href="https://github.com/puravidadac/awesome-dacs">puravidadac/awesome-dacs</a>
+See more about DACs <a href="https://github.com/liftdapp/awesome-dacs">liftdapp/awesome-dacs</a>
 
 ## Why EOSIO Blockchains?
 
