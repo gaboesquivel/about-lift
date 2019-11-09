@@ -79,7 +79,7 @@ EOSIO is third generation blockchain software that allow us to build scalable an
 
 Lift yourself up by lifting others up.
 
-[puravidadac.io](https://puravidadac.io)  
+[t.me/liftdapp](t.me/liftdapp)  
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
