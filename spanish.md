@@ -35,15 +35,6 @@ Individuos, empresas y organizaciones de todas las naciones pueden ser parte de 
 
 La primera fase se centrará en la construcción de la comunidad, las herramientas de código abierto, la educación y la sensibilización. Diseñaremos e implementaremos en forma colectiva el token de DAC, los contratos inteligentes y los sistemas necesarios para ejecutar el DAC. 
 
-## Socios Colaboradores
-
-- [BlockchainCR](https://blockchaincr.com) Comunidad de Blockchain en Costa Rica.
-- [Blockmatic](https://blockmatic.io) Empresa consultora en desarrollo en blockchain.
-- [BananaCode](https://www.facebook.com/bananacode.co) Compañía de desarrollo de software.
-- [BeSpiral](https://bespiral.com/) Con BeSpiral puede aprovechar la tecnología Blockchain y DLT para crear monedas comunitarias seguras y transparentes para alcanzar sus objetivos sociales y ambientales positivos.
-- [Costa Rica JS](https://meetup.com/costaricajs) Comunidad de JavaScript en Costa Rica.
-- [Cacao.io](http://cacao.io/) Plataforma para ayudar a las comunidades agrícolas a organizarse y competir en el mercado global.
-
 ## El colibrí
 
 Elegimos este pájaro como nuestro logotipo debido a su simbolismo:
