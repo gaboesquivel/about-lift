@@ -34,15 +34,6 @@ Individuals, companies and organizations from of all nations can be part of it.
 
 The first phase we will be focused on building up the community, open source tools, education and awareness. We will collectively design and implement the DAC Token, smart contracts and the systems required to run the DAC. 
 
-## Collaborative Partners
-
-- [BlockchainCR](https://blockchaincr.com) Blockchain Community in Costa Rica.
-- [BananaCode](https://www.facebook.com/bananacode.co) Software Development Company.
-- [Blockmatic](https://blockmatic.io) Blockchain Consultancy Firm.
-- [BeSpiral](https://bespiral.com/) With BeSpiral you can leverage Blockchain and DLT technology to create secure and transparent community currencies towards meeting your positive social and environmental goals.
-- [Costa Rica JS](https://meetup.com/costaricajs) JavaScript Community in Costa Rica.
-- [Cacao.io](http://cacao.io/) Platform to help farming communities self-organize and compete in the global market. 
-
 ## The Hummingbird
 
 We chose the this bird as our logo because of its symbolism:
