@@ -14,10 +14,11 @@
 
 # LIFT: Comunidad para compartir conocimiento.
 
-LIFT es una comunidad para compartir conocimientos. El token impulsará un ecosistema con cursos, reuniones, artículos, mentores con un enfoque en latam, estamos comenzando con contenido en español. La plataforma no solo le enseña sino que le brinda oportunidades de trabajo a través del WPS (fondo de inversión DAC) y los directorios de Kanban. Puede haber un portal independiente, etc. El objetivo final es tener un portal donde las personas puedan aprender, ganar e invertir (estacar, comerciar), lo ideal sería que la plataforma lo recompense por aprender, para que tanto el maestro como el estudiante obtengan LIFT.
+LIFT es una comunidad para compartir conocimientos. El token impulsará un ecosistema con cursos, reuniones y un mercado independiente con un enfoque inicial en latam.
 
+Puede ganar LIFT toknes a medida que aprende, pero se bloquean hasta que demuestre su conocimiento tomando una tarjeta del tablero kanban. Cada tarjeta de tablero kanban es un contrato de custodia. Luego, las cuentas de control de calidad se asignarán aleatoriamente para su revisión, una vez que se desbloqueen los tokens aprobados. Una vez que haya demostrado su conocimiento y aprobado el curso, tendrá acceso al mercado independiente.
 
-_THIS IS WORK IN PROGRESS_
+Los maestros obtienen LIFT mientras la gente mira los cursos. Las empresas y las personas que desean acceder al mercado de desarrollo necesitan tokens. Además de los cursos, habrá reuniones, y los organizadores y los miembros activos también reciben LIFT tokens, y es mejor que Meetup.
 
 ![](https://cdn-std.droplr.net/files/acc_635251/R8St9m)
 
