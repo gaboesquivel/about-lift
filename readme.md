@@ -14,12 +14,13 @@
 
 # LIFT: A Community for Knowledge Sharing
 
-LIFT is a community for knowledge sharing. The token will power an ecosystem with courses, meetups, articles, mentors with a focus on latam, we are starting with spanish content.  The platform not only teaches you but gives you work opportunities through the WPS ( DAC investment fund ) and the Kanban boards. There might be a freelance portal, etc.. Ultimate goal is to have a portal where people can learn, earn and invest (staking, trading), ideally the platform would reward you for learning, so both teacher and student get lifted.
+LIFT is a community for knowledge sharing. The token will power an ecosystem with courses, meetups and a freelance marketplace with an initial focus on latam.  
 
-_THIS IS WORK IN PROGRESS_
+You can earn LIFT tokens as you learn, but they are blocked until you proof your knowledge taking a card from the kanban board.  Each kanban board card is an escrow contract.  Then QA accounts will be randomly assigned for review, once approved tokens are unlocked. Once you have proven your knowledge and passed the course, you gain access to freelance market place. 
+
+Teachers get LIFT as people watch the courses. Companies and people that want access to the dev market need tokens. In addition to courses there will be meetups, and organizers and active member get lifted too, and it's better than meetup.
 
 ![](https://cdn-std.droplr.net/files/acc_635251/R8St9m)
-
 
 ## LIFT DAC
 
