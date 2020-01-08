@@ -14,19 +14,17 @@
 
 # LIFT: A Community for Knowledge Sharing
 
-LIFT is a community for knowledge sharing. The token will power an ecosystem with courses, meetups and a freelance marketplace with an initial focus on latam.  
+LIFT token powers an ecosystem with courses and a freelance marketplace with an initial focus on latam.  
 
-You can earn LIFT tokens as you learn, but they are blocked until you proof your knowledge taking a card from the kanban board.  Each kanban board card is an escrow contract.  Then QA accounts will be randomly assigned for review, once approved tokens are unlocked. Once you have proven your knowledge and passed the course, you gain access to freelance market place. 
+You can earn LIFT tokens as you learn once you pass the proofs of knowledge.
 
-Teachers get LIFT as people watch the courses. Companies and people that want access to the dev market need tokens. In addition to courses there will be meetups, and organizers and active member get lifted too, and it's better than meetup.
+Teachers get LIFT as people watch the courses. 
 
-![](https://cdn-std.droplr.net/files/acc_635251/R8St9m)
+Companies and people that want access to the dev market need tokens. In addition to courses there will be meetups, and organizers and active member get lifted too, and it's better than meetup.
 
 ## LIFT DAC
 
 We suggest watching [The Power and Potential of DAO/Cs](https://www.youtube.com/watch?v=Wf5gfjMfiHA) and [DAOs: The Way Towards Enlightened Global Governance](https://www.youtube.com/watch?v=G1K4M6iCSyE) as an introduction if you are not familiar with this new type of organization.
-
-## Members
 
 The LIFT DAC is an open community that embraces all members equally.    
 Individuals, companies and organizations from of all nations can be part of it.
@@ -45,12 +43,6 @@ The hummingbird symbolizes many different concepts, because of its speed, the hu
 
 Coming soon.
 
-## Philosophy
-
-A DAC for people who share the Pura Vida values.
-
-> If you have been to Costa Rica, a term you should be familiar with is “Pura Vida.” Simply translated, it means “simple life” or “pure life”, but in Costa Rica, it is more than just a saying, its a lifestyle. The "Pura Vida" symbolizes for Costa Ricans the simplicity of good living, well-being, joy, happiness and optimism, associated with the art of appreciating beauty in the simple and natural.
-
 ## Telegram 
 
  - [Lift Token Community](https://t.me/liftdapp)
@@ -65,44 +57,8 @@ See more about DACs <a href="https://github.com/liftdapp/awesome-dacs">liftdapp/
 
 EOSIO is third generation blockchain software that allow us to build scalable and secure applications with a friendly UX. Its flexible permission system is what allows this type DAC to built on top of it. 
 
----
+## Philosophy
 
-## LIFT
+A DAC for people who share the Pura Vida values.
 
-Lift yourself up by lifting others up.
-
-[t.me/liftdapp](t.me/liftdapp)  
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-
-[![PuraVida DAC Twitter][1.1]][1]
-[![PuraVida DAC Facebook][2.1]][2]
-[![PuraVida DAC Github][3.1]][3]
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: http://www.twitter.com/liftdapp
-[2]: http://fb.me/liftdapp
-[3]: http://www.github.com/liftdapp
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
+> If you have been to Costa Rica, a term you should be familiar with is “Pura Vida.” Simply translated, it means “simple life” or “pure life”, but in Costa Rica, it is more than just a saying, its a lifestyle. The "Pura Vida" symbolizes for Costa Ricans the simplicity of good living, well-being, joy, happiness and optimism, associated with the art of appreciating beauty in the simple and natural.
