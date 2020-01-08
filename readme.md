@@ -22,7 +22,7 @@ You can earn LIFT tokens as you learn once you pass the proofs of knowledge.
 
 Teachers get LIFT as people watch the courses. 
 
-Companies and people that want access to the dev market need tokens. In addition to courses there will be meetups, and organizers and active member get lifted too, and it's better than meetup.
+Companies that want access to the dev market need tokens. 
 
 ## LIFT DAC
 
