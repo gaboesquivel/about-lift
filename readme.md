@@ -14,6 +14,8 @@
 
 # LIFT: A Community for Knowledge Sharing
 
+_LIFT is an experimental community project, we are currently validating the following ideas._
+
 LIFT token powers an ecosystem with courses and a freelance marketplace with an initial focus on latam.  
 
 You can earn LIFT tokens as you learn once you pass the proofs of knowledge.
